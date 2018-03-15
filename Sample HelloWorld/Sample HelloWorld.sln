@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27428.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sample HelloWorld", "Sample HelloWorld\Sample HelloWorld.csproj", "{00D41F34-D8EB-41F0-9309-07CA414CCD7C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintNumbers", "PrintNumbers\PrintNumbers.csproj", "{AE5E3FC4-75F2-4B2F-9632-697BD4ED7BE6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintingNumbers", "PrintingNumbers\PrintingNumbers.csproj", "{3BB3B362-295E-4C78-8EC3-221F94AEA8A1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{00D41F34-D8EB-41F0-9309-07CA414CCD7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00D41F34-D8EB-41F0-9309-07CA414CCD7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00D41F34-D8EB-41F0-9309-07CA414CCD7C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AE5E3FC4-75F2-4B2F-9632-697BD4ED7BE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AE5E3FC4-75F2-4B2F-9632-697BD4ED7BE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AE5E3FC4-75F2-4B2F-9632-697BD4ED7BE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AE5E3FC4-75F2-4B2F-9632-697BD4ED7BE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BB3B362-295E-4C78-8EC3-221F94AEA8A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BB3B362-295E-4C78-8EC3-221F94AEA8A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BB3B362-295E-4C78-8EC3-221F94AEA8A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BB3B362-295E-4C78-8EC3-221F94AEA8A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
